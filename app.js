@@ -1,24 +1,24 @@
 //JavaScript Assigemnt
 
 //----------Question  no: 1-------------------------------
-// let numberOne = prompt("Enter First number")
-// let numberTwo = prompt("Enter second  number")
+// let numberOne = prompt("Enter First number");
+// let numberTwo = prompt("Enter second  number");
 // if (numberOne > numberTwo){
-//     console.log(numberOne)
+//     console.log(numberOne);
 // }
 // else {
-//     console.log(numberTwo)
+//     console.log(numberTwo);
 // }
 
 
 //----------Question  no: 2   -------------------------------
 
-// let numberOne = prompt("Enter number to check positive or negative   ")
+// let numberOne = prompt("Enter number to check positive or negative   ");
 // if (numberOne >=0){
-//     alert("The sign is +")
+//     alert("The sign is +");
 // }
 // else{
-//     alert("The sign is -")
+//     alert("The sign is -");
 // }
 
 //----------Question  no: 3   -------------------------------
@@ -42,52 +42,52 @@
 // if(num5 > largest){
 //     largest = num5;
 // }
-// console.log("The Largest Number is " + largest)
+// console.log("The Largest Number is " + largest);
 
 
 //----------Question  no: 4  -------------------------------
 // for (let i = 0; i <= 15; i++){
 //     if(i%2 ===0) {
-//         document.write(i + " is even."+"<br/>")
+//         document.write(i + " is even."+"<br/>");
 //     }else {
-//         document.write(i+" is odd."+"<br/>")
+//         document.write(i+" is odd."+"<br/>");
 //     }
 // }
 
 
 //----------Question  no: 5 -------------------------------
 
-// let marks = prompt("Enter your marks")
+// let marks = prompt("Enter your marks");
 // if(marks < 60){
-//     document.write("Your grade is F")
+//     document.write("Your grade is F");
 // }
 // else if(marks < 70) {
-//     document.write("Your grade is D")
+//     document.write("Your grade is D");
 // }
 // else if(marks < 80) {
-//     document.write("Your grade is C")
+//     document.write("Your grade is C");
 // }
 // else if(marks < 90) {
-//     document.write("Your grade is B")
+//     document.write("Your grade is B");
 // }else{
-//     document.write("Your grade is A")
+//     document.write("Your grade is A");
 // }
 
 //----------Question  no: 6 -------------------------------
 
 // for (let i = 0; i <= 100;  i++) {
 //      if(i % 3 ===0 && i % 5 ===0) {
-//         console.log(i + " FizzBuzz" )
+//         console.log(i + " FizzBuzz" );
 //     }
 //      else if(i % 3 ===0) {
-//         console.log(i + " Fizz" )
+//         console.log(i + " Fizz" );
 //     }
 //     else if(i % 5 === 0){
-//         console.log(i+" Buzz" )
+//         console.log(i+" Buzz" );
 //     }
     
 //     else{
-//         console.log(i)
+//         console.log(i);
 //     }
 // }
 
